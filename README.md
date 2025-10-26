@@ -7,7 +7,7 @@ In this project, I implemented an intelligent agent capable of navigating a trea
 Throughout this course, I applied key concepts from **reinforcement learning and neural networks** to real-world-style problems. I learned how agents make sequential decisions, balance short-term versus long-term rewards, and improve performance through experience.
 
 ## Connection to Computer Science
-Computer scientists design algorithms and systems that solve complex problems and improve everyday life. The pirate agent project demonstrates this by teaching a machine to learn through feedback rather than explicit instructions—mirroring how AI systems are applied in robotics, cybersecurity, and automation.
+Computer scientists design algorithms and systems that solve complex problems and improve everyday life. The pirate agent project demonstrates this by teaching a machine to learn through feedback rather than explicit instructions-mirroring how AI systems are applied in robotics, cybersecurity, and automation.
 
 When I approach a problem as a computer scientist, I start by **breaking it into smaller, testable components**, identifying data flows, and iterating through experiments to refine performance. This mindset encourages creativity while keeping solutions grounded in logic and evidence.
 
